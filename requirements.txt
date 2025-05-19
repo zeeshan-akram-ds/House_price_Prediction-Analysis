@@ -1,8 +1,8 @@
-pandas>=1.5.3
-numpy>=1.23.5
-matplotlib>=3.7.1
-seaborn>=0.12.2
-scikit-learn>=1.2.2
-joblib>=1.2.0
-xgboost>=1.7.5
-lime>=0.2.0.1
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+xgboost
+lime
